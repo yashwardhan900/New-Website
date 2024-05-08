@@ -274,3 +274,8 @@ form label {
   height: 50px;
   width: 100%;
 }
+.val {
+  background-color: aqua;
+  height: 50px;
+  width: 100%;
+}
